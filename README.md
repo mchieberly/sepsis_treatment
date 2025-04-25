@@ -1,2 +1,2 @@
-# sepsis_treatment
+# High-Risk Project
 Optimizing Sepsis Treatment Strategies using Reinforcement Learning
